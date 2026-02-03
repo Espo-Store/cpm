@@ -1,10 +1,12 @@
 # 🚀 ESPO STORE TOOLS CPM
 
-Tools CPM Multiplayer Terbaik
-Powered by ESPOSTORY
+**Tools CPM Multiplayer Terbaik**  
+Powered by **ESPOSTORY**
 
-Alat CLI Python untuk memodifikasi akun CPM.
+Alat CLI berbasis Python untuk memodifikasi akun CPM.  
 Fitur lengkap: Inject Rank, Unlock Item, Clone Akun.
+
+---
 
 ## ✨ FITUR UTAMA
 
@@ -17,7 +19,7 @@ Fitur lengkap: Inject Rank, Unlock Item, Clone Akun.
 - Inject Rank King (Top 1)
 - Add Money (Max 50M)
 - Add Coin (Max 500K)
-- Set Race Stats (Win/Loss)
+- Set Race Stats (Win / Loss)
 
 ### 🔓 Unlock Features
 - Unlock All Clothes & Levels
@@ -30,45 +32,70 @@ Fitur lengkap: Inject Rank, Unlock Item, Clone Akun.
 - Copy Plates (Tuning)
 - VIP Status Checker
 
+---
+
 ## 📱 TUTORIAL TERMUX
 
-Copy perintah di bawah ini satu per satu:
+Jalankan perintah di bawah **satu per satu**.
 
-1. Update Termux:
-   pkg update && pkg upgrade
+### 1. Update Termux
+```bash
+pkg update && pkg upgrade
+```
 
-2. Install Python & Git:
-   pkg install python git
+### 2. Install Python & Git
+```bash
+pkg install python git
+```
 
-3. Clone Repo ESPO STORE:
-   git clone https://github.com/Espo-Store/cpm.git
+### 3. Clone Repository
+```bash
+git clone https://github.com/Espo-Store/cpm.git
+```
 
-4. Masuk Folder:
-   cd cpm
+### 4. Masuk ke Folder
+```bash
+cd cpm
+```
 
-5. Install Library:
-   pip install requests
+### 5. Install Library
+```bash
+pip install requests
+```
 
-6. Jalankan Tool:
-   python main.py
+### 6. Jalankan Tools
+```bash
+python main.py
+```
+
+---
 
 ## 💻 TUTORIAL PC (WINDOWS)
 
-1. Download Python di python.org
-2. Download Git di git-scm.com
-3. Buka CMD, lalu ketik:
+### 1. Install Kebutuhan
+- Python: https://www.python.org
+- Git: https://git-scm.com
 
-   git clone https://github.com/Espo-Store/cpm.git
-   cd cpm
-   pip install requests
-   python main.py
+### 2. Buka CMD lalu jalankan:
+```bash
+git clone https://github.com/Espo-Store/cpm.git
+cd cpm
+pip install requests
+python main.py
+```
+
+---
 
 ## ⚠️ DISCLAIMER
-Tool ini untuk edukasi.
-Resiko banned ditanggung pengguna.
+Tools ini dibuat **hanya untuk edukasi**.  
+Segala risiko seperti banned akun adalah **tanggung jawab pengguna**.
+
+---
 
 ## 📞 SUPPORT
-Website: espostory.my.id
-GitHub: Espo-Store
+- Website: https://espostory.my.id
+- GitHub: https://github.com/Espo-Store
+
+---
 
 © 2024 ESPO STORE
