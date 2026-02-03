@@ -70,21 +70,6 @@ python main.py
 
 ---
 
-## 💻 TUTORIAL PC (WINDOWS)
-
-### 1. Install Kebutuhan
-- Python: https://www.python.org
-- Git: https://git-scm.com
-
-### 2. Buka CMD lalu jalankan:
-```bash
-git clone https://github.com/Espo-Store/cpm.git
-cd cpm
-pip install requests
-python main.py
-```
-
----
 
 ## ⚠️ DISCLAIMER
 Tools ini dibuat **hanya untuk edukasi**.  
