@@ -60,16 +60,23 @@ cd cpm
 
 ### 5. Install Library
 ```bash
-pip install requests
+pip install cryptography requests
 ```
 
 ### 6. Jalankan Tools
 ```bash
-python main.py
+export ESPO_KEY="ISI_KEY_ANDA"
 ```
 
----
+### 7. Windows (PowerShell)
+```bash
+setx ESPO_KEY "ISI_KEY_ANDA"
+```
 
+### 8. Jalankan Tools
+```bash
+python loader.py
+```
 
 ## ⚠️ DISCLAIMER
 Tools ini dibuat **hanya untuk edukasi**.  
