@@ -63,12 +63,18 @@ cd cpm
 pip install cryptography requests
 ```
 
-### 6. Jalankan Tools
+### 6. Set Loader Key
+Set Loader Key
+
+Key bersifat pribadi, jangan dibagikan.
+
 ```bash
 export ESPO_KEY="ISI_KEY_ANDA"
 ```
 
 ### 7. Windows (PowerShell)
+Key bersifat pribadi, jangan dibagikan
+
 ```bash
 setx ESPO_KEY "ISI_KEY_ANDA"
 ```
