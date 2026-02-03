@@ -1,57 +1,74 @@
-# CPM MULTIPLAYER TOOL - PY
+# 🚀 ESPO STORE TOOLS CPM
 
-A powerful Command Line Interface (CLI) tool for managing and modifying CPM Multiplayer accounts. This tool allows you to manage accounts, inject ranks, unlock premium items, and perform bulk account cloning efficiently via a secure API integration.
+Tools CPM Multiplayer Terbaik
+Powered by ESPOSTORY
 
-## 🚀 Fitur Utama
+Alat CLI Python untuk memodifikasi akun CPM.
+Fitur lengkap: Inject Rank, Unlock Item, Clone Akun.
 
-*   **Account Manager**: Cek detail akun, ganti password/email/nama, dan perbaiki bug gender.
-*   **Money & Rank**: Inject Rank King, tambah Money/Coin, dan atur statistik balapan (Win/Loss).
-*   **Unlock Features**: Buka semua pakaian, level, rumah, mobil W16, klakson, asap, disable damage, dan bensin tak terbatas.
-*   **Advanced Tools**:
-    *   Clone Akun (Tunggal & Massal/Bulk).
-    *   Copy Plates (Tuning).
-*   **VIP System**: Cek status VIP, saldo, dan beli paket premium langsung dari tool.
+## ✨ FITUR UTAMA
 
-## 📋 Requirements
+### 👤 Account Manager
+- Cek Detail Akun (Uang, Level, Status)
+- Edit Profil (Nama, Email, Password)
+- Set Player ID & Bug Fix
 
-*   Python 3.8 atau lebih baru
-*   Library `requests`
-*   Koneksi Internet Aktif
-*   **API Key** (Didapatkan dari provider server)
+### 💰 Money & Rank
+- Inject Rank King (Top 1)
+- Add Money (Max 50M)
+- Add Coin (Max 500K)
+- Set Race Stats (Win/Loss)
 
-## 📱 Tutorial Pemasangan (Termux)
+### 🔓 Unlock Features
+- Unlock All Clothes & Levels
+- Unlock Houses & Car W16
+- Unlock Horns & Smoke
+- Unlimited Fuel & Disable Damage
 
-Berikut adalah langkah-langkah lengkap untuk menjalankan tool ini di Termux bagi pengguna pertama kali:
+### ⚡ Advanced Tools
+- Clone Akun (Single & Bulk)
+- Copy Plates (Tuning)
+- VIP Status Checker
 
-### 1. Persiapan Awal
-Buka Termux dan lakukan update serta upgrade terlebih dahulu.
-pkg update && pkg upgrade
+## 📱 TUTORIAL TERMUX
 
-### 2. Install Python & Git
-Install Python dan paket Git untuk mengambil kode dari GitHub.
-pkg install python git
+Copy perintah di bawah ini satu per satu:
 
-### 3. Clone Repository
-Salin perintah di bawah ini untuk mendownload tool dari repository ini.
-*(Ganti URL di bawah dengan URL repository milik kamu)*
-git clone https://github.com/USERNAME-KAMU/NAMA-REPO.git
+1. Update Termux:
+   pkg update && pkg upgrade
 
-### 4. Masuk ke Folder Tool
-Pindah ke direktori folder yang baru saja didownload.
-*(Ganti 'NAMA-REPO' sesuai nama folder yang muncul)*
-cd NAMA-REPO
+2. Install Python & Git:
+   pkg install python git
 
-### 5. Install Library Pendukung
-Tool ini membutuhkan library `requests` untuk berkomunikasi dengan server. Install dengan perintah berikut:
-pip install requests
+3. Clone Repo ESPO STORE:
+   git clone https://github.com/Espo-Store/cpm.git
 
-### 6. Jalankan Tool
-Sekarang kamu siap menjalankan tool.
-python main.py
+4. Masuk Folder:
+   cd cpm
 
-## ⚠️ Disclaimer
+5. Install Library:
+   pip install requests
 
-Tool ini dibuat untuk tujuan pendidikan dan pengembangan. Segala penyalahgunaan tool ini (seperti merusak akun orang lain, cheating berlebihan, dll) sepenuhnya menjadi tanggung jawab pengguna. Saya (Pengembang) tidak bertanggung jawab atas banned akun atau kerugian lainnya.
+6. Jalankan Tool:
+   python main.py
 
----
-© 2024 CPM Multiplayer Tool
+## 💻 TUTORIAL PC (WINDOWS)
+
+1. Download Python di python.org
+2. Download Git di git-scm.com
+3. Buka CMD, lalu ketik:
+
+   git clone https://github.com/Espo-Store/cpm.git
+   cd cpm
+   pip install requests
+   python main.py
+
+## ⚠️ DISCLAIMER
+Tool ini untuk edukasi.
+Resiko banned ditanggung pengguna.
+
+## 📞 SUPPORT
+Website: espostory.my.id
+GitHub: Espo-Store
+
+© 2024 ESPO STORE
