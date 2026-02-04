@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="logo.jpg" alt="Logo ESPO STORE" width="200">
+  <img src="logo.jpg" alt="Logo ESPO STORE" width="200" style="border-radius: 50%;">
 </div>
-
-
 
 # 🚀 ESPO STORE TOOLS CPM
 
