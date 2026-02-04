@@ -60,28 +60,13 @@ cd cpm
 
 ### 5. Install Library
 ```bash
-pip install cryptography requests
+pip install requests
 ```
 
-### 6. Set Loader Key
-Set Loader Key
 
-Key bersifat pribadi, jangan dibagikan.
-
+### g. Jalankan Tools
 ```bash
-export ESPO_KEY="ISI_KEY_ANDA"
-```
-
-### 7. Windows (PowerShell)
-Key bersifat pribadi, jangan dibagikan
-
-```bash
-setx ESPO_KEY "ISI_KEY_ANDA"
-```
-
-### 8. Jalankan Tools
-```bash
-python loader.py
+python main.py
 ```
 
 ## ⚠️ DISCLAIMER
